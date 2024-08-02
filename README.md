@@ -1,1 +1,1 @@
-Examples from Node.JS fundamentals Course.
+Examples from Node.JS fundamentals course.
